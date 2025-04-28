@@ -34,7 +34,7 @@ pnpm install
 Setting up the `.env`
 
 ```sh
-echo 'VITE_API_BASE_URL=<your-backend-ip>'
+echo 'VITE_API_BASE_URL=<your-backend-ip>' > .env
 ```
 
 ## Run it
